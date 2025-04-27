@@ -370,7 +370,7 @@ h6,
 
 /*** service Start ***/
 .service {
-    background: white;
+    background-color: white;
 }
 
 .service .service-item {
@@ -439,7 +439,7 @@ h6,
 
 /*** Programs Start ***/
 .program {
-    background: white;
+    background-color: white;
 }
 
 .program .program-item .program-img .program-rate {
